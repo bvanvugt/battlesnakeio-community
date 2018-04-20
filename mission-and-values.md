@@ -18,4 +18,4 @@ These values drive us towards our mission. Everything we do and every decision w
 
 **Battlesnake builds community.** We work hard to encourage and grow a large and diverse community. Anyone who wants to participate or volunteer should feel welcome and supported. Anyone with ideas should feel heard and appreciated.
 
-**Battlesnake is a spectator sport.** Watching games should be exciting for everyone. Even if you don't know how to program Battlesnake events should be fun and exhilarating.
+**Battlesnake is a spectator sport.** Watching games should be exciting for everyone. Even if you don't know how to program, or don't care to learn, Battlesnake events should be fun and exhilarating.
